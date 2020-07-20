@@ -1,6 +1,9 @@
 # meteran-dashboard-server
 
+## Prerequisite
+1. node js already installed
+
 ## Set Up & Run Project
 1. Clone project
-2. run `npm install` on project directory
-3. run `node index.js` to start the server / app
+2. run `npm install` on project directory to install depedencies
+3. run `node index.js` on project directory to start the server / app
